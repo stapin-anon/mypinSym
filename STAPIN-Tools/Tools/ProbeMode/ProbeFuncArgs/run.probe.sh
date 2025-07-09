@@ -1,5 +1,5 @@
 #!/bin/bash
-TOOLLOC=$HOME/Tools/STAPIN-Tools/Tools
+TOOLLOC=$HOME/Tools/<removed>
 JSONPATH=$TOOLLOC/ProbeMode/ProbeFuncArgs/funcArgsProbeTool.json
 TOOLPATH=$TOOLLOC/ProbeMode/ProbeFuncArgs/build/libfuncArgsProbeTool.so
 ERROR ( )

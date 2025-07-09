@@ -1,5 +1,5 @@
 #!/bin/bash
-TOOLLOC=$HOME/Tools/STAPIN-Tools/Tools
+TOOLLOC=$HOME/Tools/<removed>
 JSONPATH=$TOOLLOC/ProbeMode/ProbeReuseContext/ReuseContextTool.json
 TOOLPATH=$TOOLLOC/ProbeMode/ProbeReuseContext/build/libReuseContextTool.so
 ERROR ( )
