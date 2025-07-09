@@ -7,15 +7,16 @@ See the submitted paper for details.
      git submodule update --init --recursive
 
 ## Build : library and plugin
- `export PIN_ROOT=\<location of the pin 4 kit \>`
 
- `cd STAPINLibPlugin`
+ - `export PIN_ROOT=\<location of the pin 4 kit \>`
 
- `make clean`
+ - `cd STAPINLibPlugin`
 
- `make setup`
+ - `make clean`
 
- `make `
+ - `make setup`
+
+ - `make `
 
 
 ## Build : Tools
